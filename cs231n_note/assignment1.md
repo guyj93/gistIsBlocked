@@ -10,7 +10,7 @@
 3. 找出上一步骤中哪一类别的样本最多，将该类作为预测结果。
 
 ###重点
-####逐步“向量化”预测过程步骤1的计算
+####逐步“向量化”预测过程中距离的计算
 ```
 Two loop version took 26.220000 seconds
 One loop version took 75.199000 seconds
